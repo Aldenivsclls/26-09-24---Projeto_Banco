@@ -26,4 +26,4 @@
 
 - Simples e Funcional: O sistema oferece uma interface simples para gerenciamento de contas e transações bancárias.
 
-- Segurança: As contas são protegidas por um sistema de encapsulamento, garantindo a integridade dos dados
+- Segurança: As contas são protegidas por um sistema de encapsulamento, garantindo a integridade dos dados.
