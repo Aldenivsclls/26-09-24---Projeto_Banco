@@ -1,6 +1,6 @@
 # 🏦 Banco Digital 
 
-## 📂 Sobre o projeto
+## 📂 Sobre o Projeto
 
 <p align="justify">
   Este projeto consiste em um sistema básico de banco digital, implementado em Java, com funcionalidades de conta corrente e conta poupança. O sistema permite a criação de clientes e contas, e possibilita operações como depósito, transferência e impressão de extratos.
